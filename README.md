@@ -1,5 +1,7 @@
 <h2>Configuration</h2>
 
+This project has been tested with Gradle 1.4
+
 Run the Batch Job: 
 
   	gradle clean run -Pargs="applicationContext.xml customerJob"
