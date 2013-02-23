@@ -1,4 +1,4 @@
-h2. Configuration
+<h2>Configuration</h2>
 
 Run the Batch Job: 
 
