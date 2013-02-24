@@ -1,4 +1,8 @@
+[![Build Status](https://buildhive.cloudbees.com/job/marcelbirkner/job/spring-batch-example/badge/icon)](https://buildhive.cloudbees.com/job/marcelbirkner/job/spring-batch-example/)
+
 <h2>Configuration</h2>
+
+This project has been tested with Gradle 1.4
 
 Run the Batch Job: 
 
