@@ -26,4 +26,10 @@ Example result:
 To change the commit interval update the batch.properties file.
 
 	commit.interval=3
-	 
+	
+<h3>Details</h3>
+
+Change the implementation of the FeedReader and DatabaseWriter to implement your own batch job.
+
+Have fun
+ 
